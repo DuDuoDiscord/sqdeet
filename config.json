@@ -1,0 +1,74 @@
+{
+    "token": "NjA1Nzk2NjcxNzMyOTczNTc4.XUBujQ.9JVuLD-nueVUVqBpg_VmzJUJzFc",
+    "clientid": "605796671732973578",
+    "prefix": "/",
+    "version": "3.0.2",
+    "chat": "captcha",
+    "userrole": "Verified",
+    "streamingGame": "By DuoCat.exe",
+    "streamingLink": "https://www.twitch.tv/DuoZZTTV",
+    "evalAllowed": "true",
+    "ownerid": "605796671732973578",
+    "logging": true,
+    "captchaType": "text",
+    "commands": {
+        "blockUser": {
+            "command": "block",
+            "contributors": ["LarchitecT#0001"],
+            "enabled": true
+        },
+        "removeBlockFromUser": {
+            "command": "removeBlock",
+            "contributors": ["LarchitecT#0001"],
+            "enabled": true
+        },
+        "banGuildMember": {
+            "command": "ban",
+            "contributors": ["LarchitecT#0001"],
+            "enabled": true
+        },
+        "clear": {
+            "command": "clear",
+            "contributors": ["LarchitecT#0001"],
+            "enabled": true
+        },
+        "version": {
+            "command": "version",
+            "enabled": true
+        },
+        "queries": {
+            "command": "queries",
+            "enabled": true,
+            "contributors": ["LarchitecT#0001"]
+        },
+        "querydelete": {
+            "command": "querydelete",
+            "enabled": true,
+            "contributors": ["LarchitecT#0001"]
+        },
+        "purgelogs": {
+            "command": "purgelogs",
+            "enabled": true,
+            "contributors": ["LarchitecT#0001"]
+        },
+        "logs": {
+            "command": "logs",
+            "enabled": true,
+            "contributors": ["LarchitecT#0001"]
+        },
+        "captchas": {
+            "command": "captchas",
+            "enabled": true,
+            "contributors": ["LarchitecT#0001"]
+        },
+        "makerole": {
+            "command": "create-role",
+            "enabled": true,
+            "contributors": ["LarchitecT#0001"]
+        },
+        "unverify": {
+            "command": "unverify",
+            "enabled": true
+        }
+    }
+}
